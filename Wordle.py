@@ -3,7 +3,6 @@ import pyautogui
 class Wordle:
 
     chars_remaining = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
-    additional_line = 1
 
     def __init__(self,possible_words):
 
